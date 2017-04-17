@@ -1,0 +1,2 @@
+# PeakLocator
+Matlab peak finder
